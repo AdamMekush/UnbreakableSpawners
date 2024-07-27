@@ -1,0 +1,5 @@
+name: UnbreakableSpawners
+version: '1.0'
+main: dev.slide_am.us.UnbreakableSpawners
+api-version: '1.20'
+authors: [ Slide_AM ]
